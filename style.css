@@ -1,0 +1,26 @@
+html{
+    background-color: black;
+}
+#main{
+    
+    margin-left: 90px;
+    border:3px solid white;
+    height: 200px;
+    width: 300p;
+    
+   
+}
+
+.blue-text{
+    font-style: Libre Baskerville,serif ; 
+    color: white;
+    text-align: center;
+    
+}
+.text-text{
+    font-style:Libre Baskerville ,serif ;
+    color: white;
+    text-align: center;
+    font-size: xx-small;
+
+}
